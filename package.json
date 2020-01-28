@@ -1,6 +1,6 @@
 {
     "title": "ECX",
-    "name": "startbootstrap-creative",
+    "name": "ecx",
     "version": "0.2.0",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
@@ -14,19 +14,20 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/creative",
+    "homepage": "https://ecx.website",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-creative/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/geektutor/ecx2020",
+        "email": "ecxunilag@gmail.com"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "Geektutor",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "David Miller (http://davidmiller.io/)",
+        "Sodiq Akinjobi (http://twitter.com/geektutor"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-creative.git"
+        "url": "https://github.com/geektutor/ecx2020.git"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.10.2",
